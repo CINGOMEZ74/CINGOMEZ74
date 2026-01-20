@@ -2,7 +2,9 @@
 💼 Business Analyst @ AltaMed Health Services
 
 📊 Data Analyst | Python, Pandas, Seaborn, SQL
+
 📈 Turning business problems into data insights for healthcare & fintech
+
 🎓 Graduating: December 2026
 
 🌱 Passionate about media analytics & financial risk analysis
