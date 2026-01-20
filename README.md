@@ -1,14 +1,14 @@
-👋 Hi, I'm Cinthya - MS Applied Analytics @ USC (Fight On! 🏈)
+👋 Hi, I'm Cinthya - MS Applied Analytics @ USC '26 (Fight On! 🏈)
+💼 Business Analyst @ AltaMed Health Services
 
-📊 Data Analyst turning 20K+ loan applications into business insights
-   • Found high-income employed homeowners get approved 3x more often
-   • Python, Pandas, Seaborn | Financial Risk Analysis
+📊 Data Analyst | Python, Pandas, Seaborn, SQL
+📈 Turning business problems into data insights for healthcare & fintech
+🎓 Graduating: December 2026
 
-🔍 Featured Project: [Loan Approval Analysis](link-to-repo)
-
-🌱 Currently: Building data portfolios for fintech & media analytics
-💞️ Open to: Data analyst collaborations & internships
+🌱 Passionate about media analytics & financial risk analysis
+💞️ Open to: Data analyst roles & collaborations
 📫 Reach me: cinthyagomez74@gmail.com
+
 
 
 <!---
