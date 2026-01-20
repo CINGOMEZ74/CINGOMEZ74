@@ -1,4 +1,5 @@
 👋 Hi, I'm Cinthya - MS Applied Analytics @ USC '26 (Fight On! 🏈)
+
 💼 Business Analyst @ AltaMed Health Services
 
 📊 Data Analyst | Python, Pandas, Seaborn, SQL
