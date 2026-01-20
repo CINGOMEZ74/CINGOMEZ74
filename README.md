@@ -6,7 +6,9 @@
 🎓 Graduating: December 2026
 
 🌱 Passionate about media analytics & financial risk analysis
+
 💞️ Open to: Data analyst roles & collaborations
+
 📫 Reach me: cinthyagomez74@gmail.com
 
 
