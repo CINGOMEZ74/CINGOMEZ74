@@ -2,13 +2,13 @@
 
 💼 Business Analyst @ AltaMed Health Services
 
-📊 Data Analyst | Python, Pandas, Seaborn, SQL
+📊 Data Analyst | Python, Polars, Plotly, Pandas, Seaborn, Matplotlib, SQL
 
-📈 Turning business problems into data insights for healthcare & fintech
+📈 Turning business problems into data insights for healthcare & adtech
 
 🎓 Graduating: December 2026
 
-🌱 Passionate about media analytics & financial risk analysis
+🌱 Passionate about storytelling
 
 💞️ Open to: Data analyst roles & collaborations
 
